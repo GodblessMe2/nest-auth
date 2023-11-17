@@ -1,0 +1,2 @@
+Write the authGuide myself with using dependencies 
+Do a validateUser before the payload 
